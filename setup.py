@@ -8,7 +8,7 @@ setuptools.setup(
     version='0.0.1',
     author='Wojciech Broniowski',
     author_email='Wojciech.Broniowski@ifj.edu.pl',
-    description='neural package',
+    description='neural package for my Jupyter Books',
     long_description=long_description,
     long_description_content_type="text/markdown",
     url='https://github.com/bronwojtek/lib_nn',
